@@ -1,0 +1,2 @@
+git log" command is used to see the saved commit and its details like when it was saved. by whom it was saved, it does not show the untracked files
+to see that usse "git status" command

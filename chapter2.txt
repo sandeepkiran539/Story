@@ -1,0 +1,1 @@
+git add ." command is used to add all the untracked files to the staging area.
